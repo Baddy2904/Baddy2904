@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and football
 - 🌱 I’m currently learning PHP, Dart, C
 - 📫 How to reach me : 
--   battiatomatteo29@gmail.com
+-   email: battiatomatteo29@gmail.com
 -   stackoverflow: https://stackoverflow.com/users/20026959/baddy29
 
 <!---
