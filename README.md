@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baddy2904
 - 👀 I’m interested in programming and football
-- 🌱 I’m currently learning verilog
+- 🌱 I’m currently learning assembly
 - 📫 How to reach me : 
 -   email: battiatomatteo29@gmail.com
 -   stackoverflow: https://stackoverflow.com/users/20026959/baddy29
