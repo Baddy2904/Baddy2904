@@ -1,17 +1,17 @@
-# Hi, I'm Matteo
+# 👋 Ciao, sono Matteo
 
-### 👀 Interests
-⚡ Programming  
-⚽ Football  
-
-### 🎓 Education
+## 🎓 Istruzione
 Studente presso **Università di Verona**  
-Corso di laurea: *Informatica*  
-Anno: *2026/2027*
+Corso di laurea: Informatica  
+Anno accademico: 2026/2027
 
-### 🌱 Currently learning
-Dart & Flutter  
+## 👀 Interessi
+💻 Programmazione  
+⚽ Calcio
 
-### 📫 Reach me
-📧 Email: **battiatomatteo29@gmail.com**  
-🧑‍💻 StackOverflow: [baddy29](https://stackoverflow.com/users/20026959/baddy29)
+## 🌱 Formazione attuale
+Dart & Flutter
+
+## 📫 Contatti
+📧 Email: battiatomatteo29@gmail.com  
+🧑‍💻 StackOverflow: https://stackoverflow.com/users/20026959/baddy29
