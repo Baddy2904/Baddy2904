@@ -4,7 +4,7 @@
 ⚡ Programming  
 ⚽ Football  
 
-## 🎓 Education
+### 🎓 Education
 Studente presso **Università di Verona**  
 Corso di laurea: *Informatica*  
 Anno: *2026/2027*
