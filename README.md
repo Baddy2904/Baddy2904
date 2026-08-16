@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baddy2904
 - 👀 I’m interested in programming and football
-- 🌱 I’m currently learning assembly
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me : 
 -   email: battiatomatteo29@gmail.com
 -   stackoverflow: https://stackoverflow.com/users/20026959/baddy29
