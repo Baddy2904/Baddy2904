@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Matteo
+# Hi, I'm Matteo
 
 ### 👀 Interests
 ⚡ Programming  
 ⚽ Football  
 
 ## 🎓 Education
-🎓 Studente presso **Università di Verona**  
-📚 Corso di laurea: *Informatica*  
-📅 Anno: *2026/2027*
+Studente presso **Università di Verona**  
+Corso di laurea: *Informatica*  
+Anno: *2026/2027*
 
 ### 🌱 Currently learning
-📘 Dart & Flutter  
+Dart & Flutter  
 
 ### 📫 Reach me
 📧 Email: **battiatomatteo29@gmail.com**  
